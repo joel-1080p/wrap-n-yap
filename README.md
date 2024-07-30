@@ -1,6 +1,7 @@
 # Wrap-n-Yap
 
 ![IMG_2116](https://github.com/user-attachments/assets/118985e5-9735-4415-937d-d3d705df1489)
+
 Wrap-n-yap wraps up articles for you, then serves it with a side of sound - an audio summary that'll keep you in the know!
 
 
