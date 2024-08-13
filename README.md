@@ -7,6 +7,7 @@ Wrap-n-yap wraps up articles for you, then serves it with a side of sound - an a
 
 ## RUNNING Wrap-n-Yap
 - Make sure to have [Ollama](https://ollama.com/) installed.
+- Ollama run Llama 3.1
 - Pip install ollama and gTTS.
 - When the script is completed, wrap_n_yap_output.mp3 file will be created in the same directory.
 
