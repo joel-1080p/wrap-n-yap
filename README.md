@@ -19,9 +19,8 @@ Wrap-n-yap wraps up articles for you, then serves it with a side of sound - an a
 - I use it in my portfolio website as part of the react and flask backend. [Website](http://38.125.229.163:3000/wrap-n-yap)
 
 ## KNOWN BUGS
-- The LLM used is qwen2 1.5b which works well for summarization, but still takes too long to compute.
-- Run time takes 3 to 4 minutes on average due to hardware limitations.
-- I've tested the script on my Macbook M2 and it runs in approximately 20 seconds. 
+- If the user makes a request and the request is fulfilled, the user will need to reload the page.
+- If the page is not reloaded, the previously ran mp3 will still be there.
 
 ## Requirements
 -   [Python](https://www.python.org) \>= 2.7, 3.4
